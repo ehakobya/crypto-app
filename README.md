@@ -1,7 +1,7 @@
 # Crypto currency project built ReactJS, Redux Toolkit, and RapidAPI
 
-## Live Demo
-## API from https://rapidapi.com/hub
+### Live Demo
+### API from https://rapidapi.com/hub
 ---
 
 ### Project screenshots
